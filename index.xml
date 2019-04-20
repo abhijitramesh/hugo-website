@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Alpha Tech</title>
+    <link>http://abhijitramesh.github.io/</link>
+    <description>Recent content on The Alpha Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://abhijitramesh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Boot Up</title>
+      <link>http://abhijitramesh.github.io/post/post/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://abhijitramesh.github.io/post/post/</guid>
+      <description>Hello Are you a tech enthusiast ?
+If yes you are at the right place. Hi I am Abhijit Ramesh and welcome to my blog here in my blogs i would be talking about the latest technologies and news on the tech industries. But before starting let me talk about myself.I am a computer engineering student at Amrita School of Engineering My pursuit for technology started from when I was a kid and it is still continuing.</description>
+    </item>
+    
+  </channel>
+</rss>
