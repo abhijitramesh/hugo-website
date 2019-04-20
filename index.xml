@@ -6,10 +6,20 @@
     <description>Recent content on The Alpha Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 16:15:00 +0000</lastBuildDate>
     
 	<atom:link href="http://abhijitramesh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nvdia RTX Graphic Cards</title>
+      <link>http://abhijitramesh.github.io/post/post/</link>
+      <pubDate>Fri, 21 Sep 2018 16:15:00 +0000</pubDate>
+      
+      <guid>http://abhijitramesh.github.io/post/post/</guid>
+      <description>RASTERIZATION To understand what ray tracing means first we need to understand how an image is rendered in a GPU. Currently, Graphics cards use a technology called rasterization.
+Rasterization basically converts a 3d shape into a 2d image. This process is fast but not realistic it can be described simply as how a painter would draw a scenery. A GPU which works by Rasterization creates a 3d model by combining polygons accordingly and mapping the polygon into individual pixels which then further undergoes the process of shader which gives it texture colour and lighting effect to give a fully rendered frame.</description>
+    </item>
     
     <item>
       <title>The Boot Up</title>
